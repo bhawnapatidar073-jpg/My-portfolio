@@ -43,24 +43,16 @@ My-portfolio/
 │── Resume.pdf
 ```
 
----
-
-## 📸 Screenshots
-
-(Add screenshots here later)
-
----
-
 ## 📧 Contact
 
 GitHub:
 https://github.com/bhawnapatidar073-jpg
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/bhawna-patidar-600660377?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Email:
-(Add your email)
+bhawnapatidar073@gmail.com
 
 ---
 
